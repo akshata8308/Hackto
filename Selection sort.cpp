@@ -44,7 +44,9 @@ int main()
 	selectionSort(arr, n);
 	cout << "Sorted array: \n";
 	printArray(arr, n);
+// 	return 0-;
 	return 0;
+	
 }
 
-// This is code is contributed by rathbhupendra
+// This is code is contributed by Siddhesh
